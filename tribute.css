@@ -45,3 +45,26 @@ main {
     flex-direction: column;
     align-items: center;
 }
+
+.highlighted {
+    background-color: pink;
+  }
+  
+  .tribname {
+    font-size: 14;
+  }
+  
+  .figure {
+    background-color: white;
+  }
+  figure {
+      text-align: center;
+      display: table;
+      //max-width: 50%; 
+      margin: 10px auto;
+  }
+  .infotext{
+    width:80%;
+    background-color: wheat;
+    margin: auto;
+  }
